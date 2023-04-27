@@ -13,7 +13,7 @@ export default function Home() {
 
       <section className='call-to-action mt-10'>
         <a href="mailto:syauqeesy@gmail.com" className='border-2 border-blue-500 hover:border-blue-700 bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 mr-8 rounded'>Hire me!</a>
-        <a href="https://github.com/bee-hoon" className='border-2 border-blue-500 hover:border-blue-700 hover:bg-blue-700 text-blue-500 hover:text-white font-bold py-2 px-4 rounded'>Projects</a>
+        <a href="https://github.com/bee-hoon" className='border-2 border-blue-500 hover:border-blue-700 hover:bg-blue-700 text-blue-500 hover:text-white font-bold py-2 px-4 rounded'>Portfolio</a>
       </section>
 
       <footer className='mt-auto'>
